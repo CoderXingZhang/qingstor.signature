@@ -1,7 +1,7 @@
 Package: qingstor.signature
 Type: Package
 Title: Qingstor Web Services Request Signatures
-Version: 0.2.9
+Version: 0.1
 Date: 2017-05-22
 Description: Generates request signatures for Qingstor APIs.
 License: GPL (>= 2)
