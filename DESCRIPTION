@@ -1,11 +1,9 @@
 Package: qingstor.signature
 Type: Package
-Title: Amazon Web Services Request Signatures
+Title: Qingstor Web Services Request Signatures
 Version: 0.2.9
-Date: 2017-04-28
-Authors@R: c(person("Thomas J.", "Leeper", role = c("aut", "cre"),
-                    email = "thosjleeper@gmail.com"))
-Description: Generates request signatures for Amazon Web Services (AWS) APIs.
+Date: 2017-05-22
+Description: Generates request signatures for Qingstor APIs.
 License: GPL (>= 2)
 Imports:
     digest,
@@ -14,4 +12,3 @@ Suggests:
     testthat
 URL: https://github.com/zhangxing-love/qingstor.signature.git
 BugReports: https://github.com/zhangxing-love/qingstor.signature/issues
-RoxygenNote: 6.0.1
