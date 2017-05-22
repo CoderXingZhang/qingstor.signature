@@ -1,4 +1,4 @@
-Package: aws.signature
+Package: qingstor.signature
 Type: Package
 Title: Amazon Web Services Request Signatures
 Version: 0.2.9
@@ -12,6 +12,6 @@ Imports:
     base64enc
 Suggests:
     testthat
-URL: https://github.com/cloudyr/aws.signature
-BugReports: https://github.com/cloudyr/aws.signature/issues
+URL: https://github.com/zhangxing-love/qingstor.signature.git
+BugReports: https://github.com/zhangxing-love/qingstor.signature/issues
 RoxygenNote: 6.0.1
